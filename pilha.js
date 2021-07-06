@@ -43,7 +43,6 @@ while(numDecial != 0){
 console.log("Desempilhando tudoooooo.......");
 while(!estaVazia){
     console.log(pop());
-
 }
 
 /*
